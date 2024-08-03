@@ -1,0 +1,24 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+}
+.game{
+    width: 400px;
+    text-align: center;
+}
+.game .title{
+    font-size: 30px;
+}
+.game .square{
+    height: 120px;
+    width: 120px;
+    background-color: black;
+    margin: 5px;
+    float: left;
+    font-size: 50px;
+    color: white;
+
+}
